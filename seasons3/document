@@ -5,3 +5,11 @@ episode 3 : a simple program like brush in paint, this brush can plot line and r
 episode 4 : this episode about annotating images by drawing rectangles by click and hold mouse and moving mouse to end point. this program can undo from change and clear all shapes from screen. 
 episode 5 (practice 5) : a program to plot triangle by clicking on screen
 episode 6 : adding trackbar to add weighted pictures and changeing color 
+episode 7 (practice 6) : a simple program like paint , can draw lines and changeing color and thickness by trackbars 
+episode 8 : read data from webcam and show user (fram or even live with little change in colors and flip)
+episode 9 : read video from file and show to user , and even change in color channels 
+episode 10 : saving video in file 
+episode 11 : working with RSTP (protocol of CCTV [Closed-circuit television]) 
+episode 12 : screen shot and screen record 
+episode 13 : download from youtube 
+episode 14 : practice these topics : webcam reading, gamma method, keyboard callback 
